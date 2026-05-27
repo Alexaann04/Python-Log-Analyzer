@@ -1,2 +1,2 @@
-# Python-Log-Analyzer
+# python-log-analyzer-splunk
 Python-based cybersecurity log analyzer using Splunk, Pandas, regex, and statistical anomaly detection for brute-force and suspicious login detection.
