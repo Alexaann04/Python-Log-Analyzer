@@ -1,0 +1,12 @@
+2026-05-21 08:00:11 LOGIN_FAILED user=admin ip=192.168.1.10 country=India
+2026-05-21 08:01:15 LOGIN_FAILED user=admin ip=192.168.1.10 country=India
+2026-05-21 08:02:22 LOGIN_FAILED user=admin ip=192.168.1.10 country=India
+2026-05-21 08:05:00 LOGIN_SUCCESS user=alex ip=10.0.0.2 country=India
+2026-05-21 08:10:45 LOGIN_FAILED user=root ip=45.33.21.11 country=Russia
+2026-05-21 08:12:01 LOGIN_FAILED user=root ip=45.33.21.11 country=Russia
+2026-05-21 08:15:34 LOGIN_SUCCESS user=john ip=103.44.12.8 country=India
+2026-05-21 08:17:11 LOGIN_SUCCESS user=john ip=200.55.10.1 country=USA
+2026-05-21 08:20:00 LOGIN_FAILED user=test ip=99.88.77.66 country=China
+2026-05-21 08:21:00 LOGIN_FAILED user=test ip=99.88.77.66 country=China
+2026-05-21 08:22:00 LOGIN_FAILED user=test ip=99.88.77.66 country=China
+2026-05-21 08:23:00 LOGIN_FAILED user=test ip=99.88.77.66 country=China
